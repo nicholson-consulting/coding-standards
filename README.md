@@ -2,8 +2,8 @@
 Content related to our coding standards and best practice. Click on the Wiki button up the top to see all our publicly available analytical processes.
 
 ## Links to Markdown Guidelines
-* [coming soon: our coding standards]
-* [IDI Standards](https://nicholson-consulting.github.io/coding-standards/output/git_version_control.html)
+* [Coding Standards](https://nicholson-consulting.github.io/coding-standards/output/coding-standards.html)
+* [IDI Standards](https://nicholson-consulting.github.io/coding-standards/output/idi-standards.html)
 
 
 ## License for the content in coding-standards

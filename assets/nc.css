@@ -1,0 +1,59 @@
+#header {
+   background-color:#009DE0;
+   color: white;
+   border-radius: 5px;
+   padding-left: 10px;
+   padding-bottom: 5px;
+}
+
+.title {
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 20%;
+}
+
+.active.list-group-item, .active.list-group-item:focus, .active.list-group-item:hover{
+   background-color:#FECD12;
+   border-color:#FECD12;
+
+h1 {
+  font-family:  'Montserrat', Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 28pt;
+  /* normally we use black but this will be in the header area which has a coloured background */
+  color: #FFFFFF;
+  line-height: 1.2;
+}
+
+h2 {
+  font-family:  'Montserrat', Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14pt;
+  color: #000000;
+  line-height: 1.2;
+}
+
+h3 {
+  font-family:  'Montserrat', Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 10pt;
+  color: #000000;
+  line-height: 1.2;
+}
+
+
+body { 
+  font-family:  'Montserrat', Helvetica, sans-serif;
+  font-size: 10pt;
+  color: #000000;
+}
+
+.watermark {
+  opacity: 0.25;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  font-size: 500%;
+  color: #8C8E90;
+}
+

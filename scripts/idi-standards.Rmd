@@ -6,7 +6,7 @@ knit: (function(inputFile, encoding) {
       out_dir <- "output";
       rmarkdown::render(inputFile,
                         encoding=encoding, 
-                        output_file=file.path("..", out_dir, "git_version_control.html")) })
+                        output_file=file.path("..", out_dir, "idi-standards.html")) })
 output:
   html_document:
     css: ../assets/nc.css

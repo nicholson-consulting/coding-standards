@@ -3,7 +3,8 @@ Content related to our coding standards and best practice. Click on the Wiki but
 
 ## Links to Markdown Guidelines
 * [coming soon: our coding standards]
-* [coming soon: IDI coding standards]
+* [IDI Standards](https://nicholson-consulting.github.io/coding-standards/output/git_version_control.html)
+
 
 ## License for the content in coding-standards
 [![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)

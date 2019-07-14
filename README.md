@@ -3,7 +3,8 @@ Content related to our coding standards and best practice. Click on the Wiki but
 
 ## Links to Markdown Guidelines
 * [coming soon: our coding standards]
-* [coming soon: IDI coding standards]
+* [IDI Standards](https://nicholson-consulting.github.io/coding-standards/output/git_version_control.html)
+
 
 ## License for the content in coding-standards
 [![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
@@ -15,6 +16,6 @@ To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.
 ## License for the code
 MIT Licence
 
-Crown copyright (c) 2017, Social Investment Agency on behalf of the New Zealand Government.
+Nicholson Consulting (c) 2017.
 
 See ![LICENSE.md](https://github.com/nicholson-consulting/coding-standards/blob/master/LICENSE) for more details.
